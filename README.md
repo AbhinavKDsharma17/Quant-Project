@@ -1,2 +1,2 @@
 # Transfer Entropy
-Quant project based on Transfer Entropy by applying advanced Probability & Information Theory.
+Quant project implementing Transfer Entropy by applying advanced Probability & Information Theory in financial market.
